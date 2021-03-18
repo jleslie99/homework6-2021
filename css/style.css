@@ -34,7 +34,7 @@ header{
     /*Don't forget to vertically and horizontally 
     align the element*/
     display: flex;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
